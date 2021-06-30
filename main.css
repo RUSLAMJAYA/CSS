@@ -23,7 +23,7 @@ margin: 0px 0px 0px 0px;
 text-shadow: none;    
 } 
     
-@charset "utf-8";
+@charset 'utf-8';
 a {text-decoration: none; color: black;}
 a hover {text-decoration: none; color: #9932CC;}
 .post-header img {text-decoration: none; color: #9932CC;}
@@ -405,37 +405,37 @@ h2 b2, h2 b2{
   transition: all 0.8s linear;
 }
 .fbf01{
-  background-image: url("https://ruslamjaya.github.io/IMG/LOGO-CS001.jpg");
+  background-image: url('//ruslamjaya.github.io/IMG/LOGO-CS001.jpg');
     background-position: center middle;
     background-repeat: no-repeat;
     background-size: cover;    
 }
 .fbf02{
-  background-image: url("https://ruslamjaya.github.io/IMG/LOGO-SC001.jpg");
+  background-image: url('//ruslamjaya.github.io/IMG/LOGO-SC001.jpg');
     background-position: center middle;
     background-repeat: no-repeat;
     background-size: cover;    
 }
 .fbf03{
-  background-image: url("https://ruslamjaya.github.io/IMG/LOGO-PK001.jpg");
+  background-image: url('//ruslamjaya.github.io/IMG/LOGO-PK001.jpg');
     background-position: center middle;
     background-repeat: no-repeat;
     background-size: cover;    
 }
 .fbf04{
-  background-image: url("https://ruslamjaya.github.io/IMG/LOGO-DC001.jpg");
+  background-image: url('//ruslamjaya.github.io/IMG/LOGO-DC001.jpg');
     background-position: center middle;
     background-repeat: no-repeat;
     background-size: cover;    
 }
 .fbf05{
-  background-image: url("https://ruslamjaya.github.io/IMG/LOGO-TR001.jpg");
+  background-image: url('//ruslamjaya.github.io/IMG/LOGO-TR001.jpg');
     background-position: center middle;
     background-repeat: no-repeat;
     background-size: cover;    
 }
 .fbf06{
-  background-image: url("https://ruslamjaya.github.io/IMG/LOGO-PS001.jpg");
+  background-image: url('//ruslamjaya.github.io/IMG/LOGO-PS001.jpg');
     background-position: center middle;
     background-repeat: no-repeat;
     background-size: cover;    
@@ -490,7 +490,7 @@ text-align: center;
   background-color: #00BFFF;
   color: black;
   transform: rotateY(180deg);
-  quotes: "&#8220;" "&#8221;" "&#8216;" "&#8217;";
+  quotes: '&#8220;' '&#8221;' '&#8216;' '&#8217;';
 }
 
 #main {   
@@ -926,7 +926,7 @@ color: rgb(0, 0, 0, 0);
 color: rgb(0, 0, 0, 1);
 font-size: 18px;
 font-weight: bolder; 
-background-image: url("https://ruslamjaya.github.io/IMG/white.jpg");
+background-image: url('https://ruslamjaya.github.io/IMG/white.jpg');
 background-size: 100% 100%;    
 }
     
