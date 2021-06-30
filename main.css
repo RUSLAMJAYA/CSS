@@ -1,11 +1,12 @@
 @font-face {
-  font-family: &#8216;MyWebFont&#8217;;
-  src: url(&#8216;webfont.eot&#8217;);
-  src: url(&#8216;webfont.eot?#iefix&#8217;) format(&#8216;embedded-opentype&#8217;),
-       url(&#8216;webfont.woff&#8217;) format(&#8216;woff&#8217;),
-       url(&#8216;webfont.ttf&#8217;) format(&#8216;truetype&#8217;),
-       url(&#8216;webfont.svg#svgFontName&#8217;) format(&#8216;svg&#8217;);
+  font-family: ‘MyWebFont’;
+  src: url(‘webfont.eot’);
+  src: url(‘webfont.eot?#iefix’) format(‘embedded-opentype’),
+       url(‘webfont.woff’) format(‘woff’),
+       url(‘webfont.ttf’) format(‘truetype’),
+       url(‘webfont.svg#svgFontName’) format(‘svg’);
  }    
+
 .clearfix img{max-width: 220px;}  
 html {
 -webkit-text-stroke: 0.45px;
