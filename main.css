@@ -1161,4 +1161,4 @@ margin: auto;
 background-color: white;
 z-index: 6000;	
 }
-#topheader {display: none;}
+#topheader {visibility: hidden;}
