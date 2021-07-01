@@ -1160,4 +1160,5 @@ height: 100vh;
 margin: auto;
 background-color: coral;
 z-index: 6000;	
-}  
+}
+#topheader {display: none;}
