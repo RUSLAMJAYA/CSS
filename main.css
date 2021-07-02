@@ -972,7 +972,8 @@ position: absolute;
 margin-top: 3px;   
 }    
     
-#navigate2 { 
+#navigate2 {
+top: -70px;	
 text-align: center; 
 margin-left: auto;
 margin-right: auto;    
