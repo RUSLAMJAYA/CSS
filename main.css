@@ -65,7 +65,7 @@ top:0px;
 left:0px; 
 right: 0px; 
 transition: 0.2s;
-display: block;
+display: none;
 }    
 
 #Blog1 { background: #FFFFFF;}
@@ -1156,4 +1156,4 @@ margin: auto;
 background-color: white;
 z-index: 600;	
 }
-.design-blogger {visibility: hidden;}
+
